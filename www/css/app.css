@@ -1,0 +1,24 @@
+.product {
+		border:2px solid #0094ff;
+		padding-bottom: 10px;
+}
+
+.product h2 {background:#0094ff;color:white;padding:10px;}
+.product p {color:#333;padding:10px;}
+
+.videolink {
+  background-image: url(../img/video.png);
+  background-size: 72px 72px;
+  display: block;
+  width: 72px;
+  height: 72px;
+}
+
+.doclink {
+  background-image: url(../img/doc.png);
+  background-size: 72px 72px;
+  display: block;
+  width: 72px;
+  height: 72px;
+}
+
